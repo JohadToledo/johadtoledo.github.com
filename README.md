@@ -1,4 +1,5 @@
 My Official Website
-My webpage
 
-This change is from my laptop! :D
+This page has the purpose of show what am I able to do with some features. 
+
+Enjoy it as much as I did when I made it!! :D
